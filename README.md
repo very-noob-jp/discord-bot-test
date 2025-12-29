@@ -29,7 +29,7 @@ For educational purposes only. The author assumes no responsibility whatsoever.
 1.  Clone the repository:
     ```bash
     git clone https://github.com/very-noob-jp/discord-bot-test.git
-    cd discord-bot-test.git
+    cd discord-bot-test
     ```
 2.  Install dependencies:
     ```bash
