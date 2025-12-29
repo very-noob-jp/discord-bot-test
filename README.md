@@ -28,8 +28,8 @@ For educational purposes only. The author assumes no responsibility whatsoever.
 ### Setup
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/hydra-legion.git
-    cd hydra-legion
+    git clone https://github.com/very-noob-jp/discord-bot-test.git
+    cd discord-bot-test.git
     ```
 2.  Install dependencies:
     ```bash
@@ -53,7 +53,7 @@ python cli.py
 
 # 📜 Hydra Legion Command List
 Hydra Legionで使用可能な全コマンド一覧です。
-CLIからはプレフィックスなし、Discordチャットからは `!` を付けて実行します。
+CLIからはプレフィックスなし、Discordチャットからは `!` を付けて実行します。(例:`!nuke nuketest @everyone nuke testing`
 
 
 ### ☢️ Total War (戦略兵器 - サーバー破壊)
