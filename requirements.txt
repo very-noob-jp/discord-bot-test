@@ -1,0 +1,9 @@
+# Base library for Discord API interaction with voice support
+discord.py[voice]
+
+# For the command-line interface (CLI)
+prompt-toolkit
+
+# For the optional OAuth2 authentication server
+Flask
+requests
