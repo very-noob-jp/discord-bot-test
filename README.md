@@ -7,7 +7,7 @@
 ## 💀 Overview
 Hydra Legionは、複数のボットトークン（Legion）を一元管理し、標的となるDiscordサーバーに対して協調攻撃（Raid/Nuke）、情報収集（Intel）、および心理戦（PsyOps）を展開するための自律型コマンドラインインターフェース（CLI）です。従来のボットとは異なり、CLIから全ボットを同時に操作し、圧倒的な破壊力と攪乱をもたらします。
 
-#Caution⚠️
+# Caution⚠️
 For educational purposes only. The author assumes no responsibility whatsoever.
 教育目的です。いかなる場合でも作成者は責任を負いません。
 
